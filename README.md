@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm **IamByte**, a **Software Engineer** with a passion for building scalable, well-architected APIs and solving real-world problems through clean code.
+Welcome to my GitHub profile! **IamByte**, a **Software Engineer** with a passion for building scalable, well-architected APIs and solving real-world problems through clean code.
 
 ---
 
