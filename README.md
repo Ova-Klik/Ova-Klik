@@ -5,7 +5,7 @@ Welcome to my GitHub profile! **IamByte**, a **Software Engineer** with a passio
 ---
 
 ## 🌟 About Me
-- 🎯 **Current Focus:** Mastering Java Spring Boot & Software Engineering at **Semicolon Africa**
+- 🎯 **Current Focus:** Mastering Java Spring Boot & Software Engineering 
 - 👥 **Open to Collaborate On:** Backend systems, REST APIs, and developer tooling
 - 💡 **Tech Interests:** Clean Architecture, TDD, API Design, System Design, Automata
 - 🐧 **Daily Driver:** Linux Mint
